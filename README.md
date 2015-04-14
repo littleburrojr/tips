@@ -13,3 +13,4 @@ Note:
 
 Walkthrough of all user stories:
 
+<img src="https://github.com/littleburrojr/tips/blob/master/tipgif.gif">
